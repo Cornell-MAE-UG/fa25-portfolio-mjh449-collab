@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/Matthew Heering Resume.pdf" | relative_url }}) in PDF format.
+[Download my Resume]({{ "/assets/Matthew Heering Resume.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [mjh449@cornell.edu](mailto:mjh449@cornell.edu) | | | **Phone:** +908 577 4754

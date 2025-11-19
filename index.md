@@ -6,7 +6,7 @@ title: <Matthew Heering>
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/Csalt-Headshot.JPG" | relative_url }}){: class="profile-image"}
 
  
 My name is Matthew Heering, and I am a mechanical engineering student at Cornell University. I am passionate about sustainability and preserving Earth’s vast biodiversity through technical projects.

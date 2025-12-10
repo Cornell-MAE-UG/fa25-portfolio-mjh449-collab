@@ -15,29 +15,23 @@ Design Project
 
 5.2.1 Results
 
-1. Image of CAD model
+"1. Image of CAD model
 
-![Photo of CAD model]({{ "/assets/images/3270 images/CAD drawing.png" | relative_url }}){: .inline-image-r style="width: 200px}
+![Photo of CAD model]({{ "/assets/images/3270 images/CAD drawing.png" | relative_url }}){: .inline-image-r style="width: 400px}
  
 
 
 
 
-2. A description of our materials' relevant mechanical properties.
+"2. A description of our materials' relevant mechanical properties.
 
 Typically used in the aerospace, defense, and high performance automotive industries, 300M is a highly resilient material with exceptionally high yield and fatigue strengths. A material choice of 300M for our wrench allows us to make the thickness dimensions relatively slim, allowing the torque wrench to be used on bolts in tight spaces. However, the dimensions do not compromise performance with our geometry producing a normal stress of about 64ksi, which is only about 28% of the yield limit of 230 ksi.
 
 
+'3. Diagram communicating how loads and boundary conditions were applied to theFEM model.
 
 
-
-
-
-
-3. Diagram communicating how loads and boundary conditions were applied to theFEM model.
-
-
-4. Normal strain contours (in the strain gauge direction) from FEM
+'4. Normal strain contours (in the strain gauge direction) from FEM
 
 
 

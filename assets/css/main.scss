@@ -8,3 +8,20 @@ $color_scheme: '{{ site.color_scheme }}';
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Merriweather:wght@400;700&display=swap');
 @import "custom";
 
+/* Fix project title getting cut off */
+.gallery-item {
+  overflow: visible !important;
+}
+
+.gallery-item img {
+  display: block;
+  width: 100%;
+  height: auto !important;
+  margin-bottom: 10px;
+}
+
+.gallery-item p {
+  margin-top: 10px;
+  z-index: 20;
+  position: relative;
+}

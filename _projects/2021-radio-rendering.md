@@ -17,7 +17,11 @@ Design Project
 
 1. Image of CAD model
 
-![Photo of CAD model]({{ "/assets/images/3270 images/CAD drawing.png" | relative_url }})
+![Photo of CAD model]({{ "/assets/images/3270 images/CAD drawing.png" | relative_url }}){: .inline-image-l}
+ 
+
+
+
 
 2. A description of our materials' relevant mechanical properties.
 

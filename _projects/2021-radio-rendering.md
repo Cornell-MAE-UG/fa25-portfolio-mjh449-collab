@@ -19,7 +19,7 @@ Design Project
 
 <div style="clear: both;"></div>
 
-![Photo of CAD model]({{ "/assets/images/3270 images/CAD drawing.png" | relative_url }}){: .inline-image-r style="width: 1000px;"}
+![Photo of CAD model]({{ "/assets/images/3270 images/CAD drawing.png" | relative_url }}){: .inline-image-l}
 
 <div style="clear: both;"></div>
  

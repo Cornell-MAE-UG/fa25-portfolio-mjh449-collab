@@ -19,12 +19,10 @@ Design Project
 
 <div style="clear: both;"></div>
 
-![Photo of CAD model](/assets/images/3270 images/CAD drawing.png){: .inline-image-r style="width: 1000px;"}
+![Photo of CAD model](/assets/images/3270 images/CAD drawing.png){: .inline-image-r style="width: 200px;"}
 
 <div style="clear: both;"></div>
  
-
-
 
 
 "2. A description of our materials' relevant mechanical properties.

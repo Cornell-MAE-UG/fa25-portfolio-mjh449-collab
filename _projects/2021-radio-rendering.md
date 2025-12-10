@@ -15,8 +15,8 @@ image: /assets/images/3270-img.png
 }
 </style>
 
-For my Mechanics of Materials class, we were asked to design, CAD, and analyze a torque wrench. Our design is based on safety requirements and threshholds defined in the project prompt, and we used MATLAB to calculate the dimensions needed to fulfill those requirements based on our chosen material properties. 
-Worked with Garrett Smith
+For my Mechanics of Materials class, we were asked to design, CAD, and analyze a torque wrench. Our design is based on safety requirements and threshholds defined in the project prompt, and we used MATLAB to calculate the dimensions needed to fulfill those requirements based on our chosen material properties. This project was in collaboration with Garrett Smith.
+
 
 [PDF form of the report]({{ "/assets/MAE3270 Final Project.pdf" | relative_url }}) in PDF format.
 

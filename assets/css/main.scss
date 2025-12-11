@@ -26,15 +26,9 @@ $color_scheme: '{{ site.color_scheme }}';
   position: relative;
 }
 
-/* Standardize hero/project header images */
-.page-header img,
-.project-header img,
-.post-header img,
-.hero-image,
-.project-hero img {
-  display: block;
+.project-image {
   width: 100%;
-  max-height: 300px;
+  max-height: 250px;   /* controls how tall your hero is */
   object-fit: cover;
   border-radius: 12px;
 }

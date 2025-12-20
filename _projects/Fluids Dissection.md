@@ -2,6 +2,7 @@
 layout: project
 title:  Fluid Mechanical Dissection of a Rocking Piston Air Compressor
 description: Fluid dynamic dissection and analysis
+technologies: [Anamometer,Visual Tachometer]
 image: /assets/images/air compressor.png
 ---
 
